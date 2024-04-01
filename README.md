@@ -1,3 +1,6 @@
+# Archival Notice
+Since the source repo has a been archived, I'm going to be archiving this fork as well. It's unlikely that any PRs I send will be accepted. I will be continuing development in a new repo, [tenseiken/docker-qbittorrent-wireguard](https://github.com/tenseiken/docker-qbittorrent-wireguard) which removes some of the functionality in this repo that I don't have a use for (OpenVPN, disable VPN, install Python, etc.).
+
 # [qBittorrent](https://github.com/qbittorrent/qBittorrent), WireGuard and OpenVPN
 [![Docker Pulls](https://img.shields.io/docker/pulls/dyonr/qbittorrentvpn)](https://hub.docker.com/r/dyonr/qbittorrentvpn)
 [![Docker Image Size (tag)](https://img.shields.io/docker/image-size/dyonr/qbittorrentvpn/latest)](https://hub.docker.com/r/dyonr/qbittorrentvpn)
